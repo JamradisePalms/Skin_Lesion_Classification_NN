@@ -1,1 +1,1 @@
-# Skin_Lesion_Classification_NN
+# Project in progress
